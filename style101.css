@@ -1,0 +1,24 @@
+*{
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+
+.output { font-weight: bold; }
+#payment { text-decoration: underline; }
+#graph {
+  position: relative;
+   border: solid black 1px;
+   width: 40vw;
+   margin-left: 10%;
+   margin-right: 20%}
+th, td { vertical-align: top; }
+body{
+  position: relative;
+  background-color: #aaa;
+  border: 1px solid black;
+  width: 90vw;
+  margin: auto;
+  margin-top: 15vh;
+}
